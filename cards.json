@@ -1,1 +1,16 @@
-
+{
+  "cards": [
+    {
+      "card_id": "teste-1",
+      "player_id": "teste",
+      "name": "Carta de Teste",
+      "overall": 85,
+      "positions": ["ST"],
+      "club": "Clube Teste",
+      "league": "Liga Teste",
+      "nation": "Brasil",
+      "card_type": "Teste",
+      "attributes": { "pac": 90, "sho": 85, "pas": 75, "dri": 86, "def": 40, "phy": 70 }
+    }
+  ]
+}
